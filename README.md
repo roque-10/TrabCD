@@ -1,4 +1,5 @@
 # Boas Vinda ao nosso projeto de COMPUTAÇÃO DISTRIBUÍDA !!!
+
 ## Alunos: Thiago Fugishima e José Roque
 
 # Link do vídeo
@@ -10,7 +11,7 @@ https://drive.google.com/file/d/1rEetupCXnwXwEUGxNdjGeJliB81lkiWy/view?usp=shari
 ## MongoDBCompass para visualizar o banco de dados de forma mais acessível.
 ## Docker para subirmos os serviços e o banco em containers.
 
-# Instalanção
+# Instalação
 
 ## Já na pasta raiz do projeto abra o terminal (importante frisar, na pasta raiz do arquivo) e rode o comando "docker-compose up -d". Isso criará imagens dos nossos serviços e subirão eles em container.
 ## Para criar a conexão com o banco de dados basta abrir o MongoDBCompass e conectar pela url "mongodb://localhost:27018".
