@@ -1,5 +1,11 @@
 ### Boas Vinda ao nosso projeto de COMPUTAÇÃO DISTRIBUÍDA !!!
 
+## Alunos
+# Thiago Fugishima e José Roque
+
+## Link do vídeo
+# https://drive.google.com/file/d/1rEetupCXnwXwEUGxNdjGeJliB81lkiWy/view?usp=sharing
+
 ## Requisitos
 
 # Postman para realizar requisições e ser o front-end do projeto.
