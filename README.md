@@ -1,4 +1,4 @@
-### Boas Vinda ao nosso projeto de COMPUTAÇÃO DISTRIBUÍDA !!!
+# Boas Vinda ao nosso projeto de COMPUTAÇÃO DISTRIBUÍDA !!!
 
 # Alunos
 ## Thiago Fugishima e José Roque
