@@ -1,8 +1,7 @@
 ### Boas Vinda ao nosso projeto de COMPUTAÇÃO DISTRIBUÍDA !!!
 
 ## Alunos
-Thiago Fugishima
-José Roque
+Thiago Fugishima e José Roque
 
 ## Link do vídeo
 https://drive.google.com/file/d/1rEetupCXnwXwEUGxNdjGeJliB81lkiWy/view?usp=sharing
