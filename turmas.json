@@ -1,0 +1,224 @@
+[{
+  "_id": {
+    "$oid": "60ca9f52999053a9686c121d"
+  },
+  "tag": "M01",
+  "dia": "SEG",
+  "capacidade": 16,
+  "vagas": 16
+},{
+  "_id": {
+    "$oid": "60caa15e999053a9686c121e"
+  },
+  "tag": "M02",
+  "dia": "SEG",
+  "capacidade": 16,
+  "vagas": 16
+},{
+  "_id": {
+    "$oid": "60caa17d999053a9686c121f"
+  },
+  "tag": "V01",
+  "dia": "SEG",
+  "capacidade": 16,
+  "vagas": 16
+},{
+  "_id": {
+    "$oid": "60caa193999053a9686c1220"
+  },
+  "tag": "V02",
+  "dia": "SEG",
+  "capacidade": 16,
+  "vagas": 16
+},{
+  "_id": {
+    "$oid": "60caa1c4999053a9686c1221"
+  },
+  "tag": "N01",
+  "dia": "SEG",
+  "capacidade": 16,
+  "vagas": 16
+},{
+  "_id": {
+    "$oid": "60caa1da999053a9686c1222"
+  },
+  "tag": "M03",
+  "dia": "TER",
+  "capacidade": 16,
+  "vagas": 16
+},{
+  "_id": {
+    "$oid": "60caa224999053a9686c1223"
+  },
+  "tag": "M04",
+  "dia": "TER",
+  "capacidade": 16,
+  "vagas": 16
+},{
+  "_id": {
+    "$oid": "60caa254999053a9686c1224"
+  },
+  "tag": "V03",
+  "dia": "TER",
+  "capacidade": 16,
+  "vagas": 16
+},{
+  "_id": {
+    "$oid": "60caa295999053a9686c1225"
+  },
+  "tag": "V04",
+  "dia": "TER",
+  "capacidade": 16,
+  "vagas": 16
+},{
+  "_id": {
+    "$oid": "60caa2a1999053a9686c1226"
+  },
+  "tag": "N02",
+  "dia": "TER",
+  "capacidade": 16,
+  "vagas": 16
+},{
+  "_id": {
+    "$oid": "60caa2b3999053a9686c1227"
+  },
+  "tag": "M05",
+  "dia": "QUA",
+  "capacidade": 16,
+  "vagas": 16
+},{
+  "_id": {
+    "$oid": "60caa2da999053a9686c1228"
+  },
+  "tag": "M06",
+  "dia": "QUA",
+  "capacidade": 16,
+  "vagas": 16
+},{
+  "_id": {
+    "$oid": "60caa2f2999053a9686c1229"
+  },
+  "tag": "V05",
+  "dia": "QUA",
+  "capacidade": 16,
+  "vagas": 16
+},{
+  "_id": {
+    "$oid": "60caa302999053a9686c122a"
+  },
+  "tag": "V06",
+  "dia": "QUA",
+  "capacidade": 16,
+  "vagas": 16
+},{
+  "_id": {
+    "$oid": "60caa311999053a9686c122b"
+  },
+  "tag": "N03",
+  "dia": "QUA",
+  "capacidade": 16,
+  "vagas": 16
+},{
+  "_id": {
+    "$oid": "60caa330999053a9686c122c"
+  },
+  "tag": "M07",
+  "dia": "QUI",
+  "capacidade": 16,
+  "vagas": 16
+},{
+  "_id": {
+    "$oid": "60caa34b999053a9686c122d"
+  },
+  "tag": "M08",
+  "dia": "QUI",
+  "capacidade": 16,
+  "vagas": 16
+},{
+  "_id": {
+    "$oid": "60caa35c999053a9686c122e"
+  },
+  "tag": "V07",
+  "dia": "QUI",
+  "capacidade": 16,
+  "vagas": 16
+},{
+  "_id": {
+    "$oid": "60caa397999053a9686c122f"
+  },
+  "tag": "V08",
+  "dia": "QUI",
+  "capacidade": 16,
+  "vagas": 16
+},{
+  "_id": {
+    "$oid": "60caa3bc999053a9686c1230"
+  },
+  "tag": "N04",
+  "dia": "QUI",
+  "capacidade": 16,
+  "vagas": 16
+},{
+  "_id": {
+    "$oid": "60caa3db999053a9686c1231"
+  },
+  "tag": "M09",
+  "dia": "SEX",
+  "capacidade": 16,
+  "vagas": 16,
+  "professor": ""
+},{
+  "_id": {
+    "$oid": "60caa3f2999053a9686c1232"
+  },
+  "tag": "M10",
+  "dia": "SEX",
+  "capacidade": 16,
+  "vagas": 16,
+  "professor": ""
+},{
+  "_id": {
+    "$oid": "60caa3fd999053a9686c1233"
+  },
+  "tag": "V09",
+  "dia": "SEX",
+  "capacidade": 16,
+  "vagas": 16,
+  "professor": ""
+},{
+  "_id": {
+    "$oid": "60caa411999053a9686c1234"
+  },
+  "tag": "V10",
+  "dia": "SEX",
+  "capacidade": 16,
+  "vagas": 16,
+  "professor": ""
+},{
+  "_id": {
+    "$oid": "60caa422999053a9686c1235"
+  },
+  "tag": "N05",
+  "dia": "SEX",
+  "capacidade": 16,
+  "vagas": 16,
+  "professor": ""
+},{
+  "_id": {
+    "$oid": "60caa445999053a9686c1236"
+  },
+  "tag": "M11",
+  "dia": "SAB",
+  "capacidade": 16,
+  "vagas": 16,
+  "professor": ""
+},{
+  "_id": {
+    "$oid": "60caa463999053a9686c1237"
+  },
+  "tag": "M12",
+  "dia": "SAB",
+  "capacidade": 16,
+  "vagas": 16,
+  "professor": ""
+}]

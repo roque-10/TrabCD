@@ -1,0 +1,33 @@
+version: '3'
+services:
+  ms-usuario:
+    build: './ms-usuario'
+    ports:
+      - "3000:3000"
+    depends_on: 
+      - db
+    environment:
+      - MONGO_DB_URI=mongodb://db/projeto-sd
+
+  ms-escala:
+    build: './ms-escala'
+    ports:
+      - "3001:3001"
+    depends_on: 
+      - db
+    environment:
+      - MONGO_DB_URI=mongodb://db/projeto-sd
+
+  ms-pagamento:
+    build: './ms-pagamento'
+    ports:
+      - "3002:3002"
+    depends_on: 
+      - db
+    environment:
+      - MONGO_DB_URI=mongodb://db/projeto-sd
+  
+  db:
+    image: mongo:latest
+    ports:
+      - "27018:27017"
